@@ -1,0 +1,11 @@
+name: stats-play-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.4
+  - pip:
+    - jupyter==1.0.0
+    - scipy==1.8.0
+    - statsmodels==0.13.2
+prefix: /home/jsnagi/miniconda3/envs/stats-play-env
