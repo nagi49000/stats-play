@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.10.4
+  - plotly=5.8.0
   - pip:
     - jupyter==1.0.0
     - scipy==1.8.0
