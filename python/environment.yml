@@ -13,4 +13,5 @@ dependencies:
     - scikit-learn==1.1.1
     - scipy==1.8.0
     - statsmodels==0.13.2
+    - tqdm==4.66.1
 prefix: /home/jsnagi/miniconda3/envs/stats-play-env
